@@ -12,14 +12,14 @@ Acting as a lead data analyst for the company, I have been tasked with generatin
 
 ## Task
 
-**Aggregate the data found in the Citi Bike Trip History Logs for Jersey City and identify unexpected phenomena.** 
+* Aggregate the data found in the Citi Bike Trip History Logs for Jersey City and identify unexpected phenomena.
 
-**Design several visualizations for each discovered phenomena.** 
+* Design several visualizations for each discovered phenomena.
 
-**Use the visualizations to design a dashboard for each phenomena.**
+* Use the visualizations to design a dashboard for each phenomena.
 
-**Create a static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.**
+* Create a static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
-**Compose a write-up unveiling any trends that were noticed during the analysis.**
+* Compose a write-up unveiling any trends that were noticed during the analysis.
 
-**Create a Tableau story that brings together the visualizations, requested maps, and dashboards.**
+* Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
