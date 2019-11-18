@@ -1,5 +1,7 @@
 # Tableau Homework - Citi Bike Analytics
 
+View on Tableau Public [here](https://public.tableau.com/views/CitiBikeAnalytics_15715311244210/Story?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link).
+
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
