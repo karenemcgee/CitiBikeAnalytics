@@ -25,24 +25,24 @@ The full Tableau story with dashboards and dynamic visualizations can be explore
 
 #### Demographics: Types of Riders and Their Genders
 
-![Demographics](Images/Img1)
+![Demographics](Images/Img1.png)
 
 #### Peak Usage Per Hour: Number of Trips and Trip Duration
 
-![Usage](Images/Img2)
+![Usage](Images/Img2.png)
 
 #### Top 5 Stations
 
-![Stations](Images/Img3)
+![Stations](Images/Img3.png)
 
 #### Number of Trips Per Year
 
-![Annual](Images/Img4)
+![Annual](Images/Img4.png)
 
 #### Map of All Bike Stations and Their Popularity
 
-![Map](Images/Img5)
+![Map](Images/Img5.png)
 
 ## Analysis
 
-![Analysis](Images/Analysis)
+![Analysis](Images/Analysis.png)
